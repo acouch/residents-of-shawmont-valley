@@ -33,18 +33,20 @@ body {
 .initial-content,
 .search-content {
   flex: 1 0 auto;
+  position: relative;
 }
 
 .page {
   @include breakpoint($large) {
     float: right;
-    width: calc(100% - #{$right-sidebar-width-narrow});
+    width: 100%;
+    padding-left: 1rem;
     padding-right: $right-sidebar-width-narrow;
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
-    padding-right: $right-sidebar-width;
+    width: 100%;
+    padding-left: 1rem;
   }
 
   .page__inner-wrap {
@@ -113,7 +115,7 @@ body {
   p,
   li,
   dl {
-    font-size: 1em;
+    font-size: .85em;
   }
 
   /* paragraph indents */

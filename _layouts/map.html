@@ -11,18 +11,22 @@ layout: default
 <body>
 <div id="map"></div>
 <script>
+  const lat = '40.051113';
+  const lon = '-75.253733 ';
+  const geo_file = '/assets/maps/shawmontvalley.geojson';
+
   mapboxgl.accessToken = 'pk.eyJ1IjoiYWNvdWNoMSIsImEiOiJDTy0zMFJrIn0.hewU0mOW08Wm5-0-Qr8TpQ';
   const map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/mapbox/light-v11',
-    center: [-75.247600, 40.047810],
+    center: [lon, lat],
     zoom: 14
   });
  
   map.on('load', () => {
     map.addSource('rco', {
     'type': 'geojson',
-    'data': '/assets/maps/shawmontvalley.geojson'
+    'data': geo_file
   });
   map.addLayer({
     'id': 'rco',
@@ -34,8 +38,11 @@ layout: default
     },
     'paint': {
       'line-color': '#888',
-      'line-width': 8
+      'line-width': 6
       }
     });
   });
 </script>
+<div id="main">
+  {{ content }}
+</div>
