@@ -2,5 +2,40 @@
 layout: default
 ---
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24432.655483885614!2d-75.24810795!3d40.051272399999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6bed54dc4b85f%3A0xe6295b61e0c2dd94!2sShawmont%20Valley%2C%20Philadelphia%2C%20PA!5e0!3m2!1sen!2sus!4v1692146831478!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
+<link href="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.css" rel="stylesheet">
+<script src="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.js"></script>
+<style>
+  body { margin: 0; padding: 0; }
+  #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+</style>
+<body>
+<div id="map"></div>
+<script>
+  mapboxgl.accessToken = 'pk.eyJ1IjoiYWNvdWNoMSIsImEiOiJDTy0zMFJrIn0.hewU0mOW08Wm5-0-Qr8TpQ';
+  const map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/mapbox/light-v11',
+    center: [-75.247600, 40.047810],
+    zoom: 14
+  });
+ 
+  map.on('load', () => {
+    map.addSource('rco', {
+    'type': 'geojson',
+    'data': '/assets/maps/shawmontvalley.geojson'
+  });
+  map.addLayer({
+    'id': 'rco',
+    'type': 'line',
+    'source': 'rco',
+    'layout': {
+      'line-join': 'round',
+      'line-cap': 'round'
+    },
+    'paint': {
+      'line-color': '#888',
+      'line-width': 8
+      }
+    });
+  });
+</script>
