@@ -3,7 +3,7 @@ layout: single
 excerpt: "Registered Community Organization Serving Shawmont Valley."
 title: "Residents of Shawmont Valley Association"
 header:
-  overlay_image: /assets/imgs/50smap.jpg
+  overlay_image: /assets/imgs/50smap-25.jpg
   actions:
     - label: "More Info"
       url: "/about"
