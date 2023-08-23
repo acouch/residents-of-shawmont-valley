@@ -267,3 +267,10 @@ defaults:
     values:
       layout: single
       author_profile: false
+    # _events
+  - scope:
+      path: "_events"
+      type: events
+    values:
+      layout: single
+      author_profile: false    

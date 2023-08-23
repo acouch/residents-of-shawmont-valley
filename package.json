@@ -1,11 +1,11 @@
 {
-  "name": "minimal-mistakes",
+  "name": "shawmont-valley-website",
   "private": true,
-  "version": "4.24.0",
-  "description": "Minimal Mistakes 2 column Jekyll theme.",
+  "version": "1.0.0",
+  "description": "Website for RSVA.",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/minimal-mistakes.git"
+    "url": "git://github.com/acouch/shawmont-valley.git"
   },
   "keywords": [
     "jekyll",
@@ -15,9 +15,9 @@
   "author": "Michael Rose",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mmistakes/minimal-mistakes/issues"
+    "url": "https://github.com/acouch/shawmont-valley/issues"
   },
-  "homepage": "https://mmistakes.github.io/minimal-mistakes/",
+  "homepage": "http://shawmontvalley.rco.community/",
   "engines": {
     "node": ">= 0.10.0"
   },
