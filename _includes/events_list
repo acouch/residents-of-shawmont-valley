@@ -1,0 +1,19 @@
+{% assign events = site['events'] %}
+
+<div class="events__wrapper">
+    {%- for event in events -%}
+      {% if event.type == include.type %}
+      <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+        <h2 class="archive__item-title no_toc" itemprop="headline">
+            <a href="{{ event.url | relative_url }}" rel="permalink">{{ event.title }}</a>
+        </h2>
+        {% if event.event_date %}
+          <div class="archiv__item-date">{{ event.event_date | date: "%B %-d, %Y"}}</div>
+        {% endif %}
+        {% if event.excerpt %}
+          <p class="archive__item-excerpt" itemprop="description">{{ event.excerpt | markdownify | strip_html | truncate: 160 }}</p>
+        {% endif %}
+      </article>
+      {% endif %}
+    {% endfor %}
+</div>

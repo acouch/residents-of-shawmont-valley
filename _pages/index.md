@@ -5,8 +5,8 @@ title: "Residents of Shawmont Valley Association"
 header:
   overlay_image: /assets/imgs/50smap-25.jpg
   actions:
-    - label: "More Info"
-      url: "/about"
+    - label: "Join the RSVA"
+      url: "/join"
 permalink: /
 feature_row:
   - image_path: /assets/imgs/mtg-thumb_325-195.png

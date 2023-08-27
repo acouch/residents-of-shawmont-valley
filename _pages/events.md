@@ -2,6 +2,8 @@
 layout: single
 title: Meetings and Events
 permalink: /events/
+collection: events
+sort_by: reverse
 ---
 
-Events coming soon.
+{% include events_list type="meeting" %}

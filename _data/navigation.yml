@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Meetings and Events"
+    url: /events
   - title: "About"
     url: /about
   - title: "Map"
