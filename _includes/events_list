@@ -1,12 +1,18 @@
-{% assign events = site['events'] %}
+{% if include.epoc == "past" %}
+  {% assign events = site['events'] | epoc_filter: 'event_date', 'past'%}
+{% elsif include.epoc == "future" %}
+  {% assign events = site['events'] | epoc_filter: 'event_date', 'future'%}
+{% else %}
+  {% assign events = site['events'] %}
+{% endif %}
 
 <div class="events__wrapper">
     {%- for event in events -%}
       {% if event.type == include.type %}
       <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-        <h2 class="archive__item-title no_toc" itemprop="headline">
+        <h4 class="archive__item-title no_toc" itemprop="headline">
             <a href="{{ event.url | relative_url }}" rel="permalink">{{ event.title }}</a>
-        </h2>
+        </h4>
         {% if event.event_date %}
           <div class="archiv__item-date">{{ event.event_date | date: "%B %-d, %Y"}}</div>
         {% endif %}

@@ -1,4 +1,5 @@
 ---
+title: About the RSVA
 layout: single
 permalink: /about/
 ---

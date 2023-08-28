@@ -127,6 +127,7 @@ include:
   - .htaccess
   - _pages
   - _events
+  - _plugins
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
