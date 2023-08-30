@@ -280,5 +280,5 @@ defaults:
       path: "_events"
       type: events
     values:
-      layout: single
+      layout: event
       author_profile: false    
