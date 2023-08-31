@@ -2,10 +2,10 @@
 main:
   - title: "Meetings and Events"
     url: /events
+  - title: "News"
+    url: /news
   - title: "About"
     url: /about
-  - title: "Map"
-    url: /map
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

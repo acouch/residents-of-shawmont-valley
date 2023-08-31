@@ -53,11 +53,39 @@ layout: default
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}
+        {% if page.event_date %}
+          <p class="page__taxonomy">
+            <strong><i class="fas fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong>
+            <span itemprop="keywords">{{ page.event_date}}
+            </span>
+          </p>
+        {% endif %}
+        {% if page.time_start %}
+          <p class="page__taxonomy">
+            <strong><i class="fas fa-fw fa-clock  " aria-hidden="true"></i>Time:</strong>
+            <span itemprop="keywords">{{ page.time_start}} - {{ page.time_stop}}
+            </span>
+          </p>
+        {% endif %}
+        {% if page.video_link %}
+          <p class="page__taxonomy">
+            <strong><i class="fas fa-fw fa-video  " aria-hidden="true"></i>Video Link:</strong>
+            <span itemprop="keywords">{{ page.video_link}}
+            </span>
+          </p>
+        {% endif %}
         {% if page.location %}
           <p class="page__taxonomy">
-            <strong><i class="fas fa-fw fa-map-marke" aria-hidden="true"></i>Location:</strong>
-            <span itemprop="keywords">{{ page.location}}
+            <strong><i class="fas fa-fw fa-map-marker" aria-hidden="true"></i>Location:</strong>
+            <span itemprop="keywords">
             </span>
+          </p>
+          {{ page.location}}<br/>
+          {% assign place = site.locations | where: "title", "Roxborough Church" %}
+          {{ place[0].address }}
+          {% if place[0].map %}
+            <div style="-webkit-filter: grayscale(100%); filter: grayscale(100%);">{{place[0].map}}</div> 
+          {% endif %}
           </p>
         {% endif %}
       </footer>

@@ -23,9 +23,9 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : /assets/imgs/rsva-logo.jpg
+logo                     : /assets/imgs/rsva-logo-50w.png
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -248,12 +248,16 @@ compress_html:
   ignore:
     envs: development
 
-
 # Collections
 collections:
+  news:
+    output: true
+    permalink: /:collection/:path/
   events:
     output: true
     permalink: /:collection/:path/
+  locations:
+    output: false
 
 # Defaults
 defaults:
@@ -282,3 +286,9 @@ defaults:
     values:
       layout: event
       author_profile: false    
+  - scope:
+      path: "_news"
+      type: news
+    values:
+      layout: single
+      author_profile: false   
