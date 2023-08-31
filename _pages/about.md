@@ -4,7 +4,7 @@ layout: single
 permalink: /about/
 ---
 
-{% include img image_path="assets/imgs/rsva-logo-300w.png" style="float:right;max-width:300px; padding: 0 0 40px 40px"%}
+{% include img image_path="assets/imgs/rsva-logo-300w.png" style="float:right;max-width:215px; padding: 0 0 40px 40px"%}
 
 Residents of Shawmont Valley is neighborhood association established by concerned neighbors in 1980 located in the upper Roxborough neighborhood of Philadelphia. RSVA is a Registered Community Organization (RCO).
 
