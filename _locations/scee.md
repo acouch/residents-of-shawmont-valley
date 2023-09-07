@@ -1,4 +1,4 @@
 ---
-title: Schulykhill Nature Center
+title: Schuylkhill Nature Center
 address: tbd
 ---
