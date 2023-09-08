@@ -32,4 +32,5 @@ feature_row:
 
 {% include feature_row %}
 
-Site under construction!
+<h3>Upcoming Meetings</h3>
+{% include events_list type="meeting" epoc="future" %}
