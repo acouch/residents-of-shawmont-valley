@@ -23,3 +23,14 @@ fa-fw {
   text-align: left;
   width: 1.5em;
 }
+.page.event {
+  padding-right: 0;
+
+  .page__content {
+    width: 79vh;
+  }
+  .page__meta {
+    width: 20vh;
+    float: right;
+  }
+}
