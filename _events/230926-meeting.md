@@ -7,7 +7,7 @@ time_start: 6:30pm
 time_stop: 8pm
 ---
 
-## AGENDA
+## Agenda
 * This will be a general neighborhood check-in.
 * Captain James Kimrey from the 5th District will be attending to discuss recent thefts and other issues in the neighborhood
 * There will be updates for the Shawmont Station Restoration, the Manayunk Canal Improvement Project, and the Wissahickon Transportation Center.
