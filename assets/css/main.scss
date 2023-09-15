@@ -27,10 +27,11 @@ fa-fw {
   padding-right: 0;
 
   .page__content {
-    width: 79vh;
+    width: 60%;
   }
   .page__meta {
-    width: 20vh;
+    width: 35%;
     float: right;
+    clear: initial;
   }
 }
