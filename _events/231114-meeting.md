@@ -3,7 +3,7 @@ title: "November Meeting and Board Elections"
 type: meeting
 location: Roxborough Church
 video_link: NA
-event_date: 2023-11-014
+event_date: 2023-11-14
 time_start: 6:30pm
 time_stop: 8pm
 ---
