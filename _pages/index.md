@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 excerpt: "Registered Community Organization Serving Shawmont Valley."
 title: "Residents of Shawmont Valley Association"
 header:
