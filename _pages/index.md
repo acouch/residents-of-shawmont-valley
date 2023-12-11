@@ -32,8 +32,13 @@ feature_row:
 
 {% include feature_row %}
 
-<h3>Upcoming Meetings</h3>
-{% include events_list type="meeting" epoc="future" %}
-
-<h3>Get Updates</h3>
-{% include email-signup-form.html %}
+<div id="front-items">
+  <div class="first">
+    <h3>Upcoming Meetings</h3>
+    {% include events_list type="meeting" epoc="future" %}
+  </div>
+  <div class="second">
+    <h3>Get Updates</h3>
+    {% include email-signup-form.html %}
+  </div>
+</div>
