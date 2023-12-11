@@ -22,6 +22,9 @@ search: false
 .page__meta p, .comment__date p {
   margin: 8px 0;
 }
+.page {
+  padding-right: 0 !important;
+}
 fa-fw {
   text-align: left;
   width: 1.5em;
