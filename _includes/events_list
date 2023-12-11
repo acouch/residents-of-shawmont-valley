@@ -7,6 +7,9 @@
 {% endif %}
 
 <div class="events__wrapper">
+    {% if events == empty %}
+      <p>No upcoming events. Meetings are held several times per year. Please sign up to receive meeting and event notices or check back soon.</p>
+    {% endif %}
     {%- for event in events -%}
       {% if event.type == include.type %}
       <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
