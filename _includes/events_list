@@ -1,5 +1,5 @@
 {% if include.epoc == "past" %}
-  {% assign events = site['events'] | epoc_filter: 'event_date', 'past'%}
+  {% assign events = site['events'] | epoc_filter: 'event_date', 'past | sort: 'date' | reverse'%}
 {% elsif include.epoc == "future" %}
   {% assign events = site['events'] | epoc_filter: 'event_date', 'future'%}
 {% else %}
