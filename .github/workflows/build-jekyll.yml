@@ -27,4 +27,4 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }} # It's your Personal Access Token(PAT)
           branch: 'gh-pages'         # Default is gh-pages for github provider
           jekyll_cfg: '_config.yml'  # Default is _config.yml
-          bundler_ver: '>=0'         # Default is latest bundler version
+          bundler_ver: '2.4.22'         # Default is latest bundler version
