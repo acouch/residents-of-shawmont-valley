@@ -39,6 +39,7 @@ feature_row:
   </div>
   <div class="second">
     <h3>Get Updates</h3>
+    <p>Sign up to get email updates about meetings and events.</p>
     {% include email-signup-form.html %}
   </div>
 </div>
