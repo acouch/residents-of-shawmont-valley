@@ -1,5 +1,5 @@
 ---
-title: "January 20 Clean up"
+title: "January 20 Clean Up"
 type: cleanup
 location:  Minerva St and Shawmont Ave
 video_link: NA
