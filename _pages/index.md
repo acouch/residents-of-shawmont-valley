@@ -34,8 +34,8 @@ feature_row:
 
 <div id="front-items">
   <div class="first">
-    <h3>Upcoming Meetings</h3>
-    {% include events_list type="meeting" epoc="future" %}
+    <h3>Upcoming Meetings and Events</h3>
+    {% include events_list epoc="future" %}
   </div>
   <div class="second">
     <h3>Get Updates</h3>
