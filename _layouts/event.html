@@ -81,7 +81,7 @@ layout: default
             </span>
           </p>
           {{ page.location}}<br/>
-          {% assign place = site.locations | where: "title", "Roxborough Church" %}
+          {% assign place = site.locations | where: "title", page.location %}
           {{ place[0].address }}
           {% if place[0].map %}
             <div style="-webkit-filter: grayscale(100%); filter: grayscale(100%);">{{place[0].map}}</div> 
