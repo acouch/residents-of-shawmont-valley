@@ -1,5 +1,5 @@
 ---
-title: Newsletter: January 20th Cleanup and Other RSVA News
+title: "Newsletter: January 20th Cleanup and Other RSVA News"
 date: 2023-12-30
 ---
 
