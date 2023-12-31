@@ -48,3 +48,14 @@ fa-fw {
     margin-top: 20px;
   }
 }
+.news-iframe {
+  width: 100%;
+  height: 100vh;
+
+  iframe {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    top: -130px;
+  }
+}
