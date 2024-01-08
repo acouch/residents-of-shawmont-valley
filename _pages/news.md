@@ -10,5 +10,5 @@ These are neighborhood related items shared with RSVA. To share something with o
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
-  {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=reverse type=entries_layout %}
+  {% include documents-collection.html collection=page.collection sort_order=reverse type=entries_layout %}
 </div>
