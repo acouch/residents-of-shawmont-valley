@@ -17,7 +17,7 @@ With a focus on the preservation of greenways, waterways, and the overall waters
 * Jennifer Diaz, Secretary
 * Bob Small, Treasurer
 
-### Map
+### RSVA Boundaries
 
 <link href="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.css" rel="stylesheet">
 <script src="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.js"></script>
