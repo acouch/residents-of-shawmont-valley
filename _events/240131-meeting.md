@@ -1,6 +1,6 @@
 ---
 title: "Umbria Transfer Station Community Meeting"
-type: cleanup
+type: meeting
 location:  SCEE Meeting Center
 video_link: NA
 event_date: 2024-01-31
