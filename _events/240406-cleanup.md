@@ -12,6 +12,5 @@ The first cleanup of 2024 will take place on Saturday April 6th at 9am. We will 
 
 Coffee and donuts will be served. The next clean up will be in the summer.
 
-This cleanup is part of the <a href="https://www.phila.gov/programs/philly-spring-cleanup/">Philly Spring Cleanup</a>.
 
-<a href="https://www.phila.gov/programs/philly-spring-cleanup/"><img src="https://www.phila.gov/programs/philly-spring-cleanup/" alt="logo for philly spring cleanup, black text with a green broom"/></a>
+<a href="https://www.phila.gov/programs/philly-spring-cleanup/"><img src="https://www.phila.gov/media/20210621113626/PhillySpringCleanup-Logo.jpg" alt="logo for philly spring cleanup, black text with a green broom"/></a>
