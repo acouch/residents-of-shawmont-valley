@@ -3,7 +3,7 @@ title: "Spring Street Cleanup"
 type: cleanup
 location:  Minerva St and Shawmont Ave
 video_link: NA
-event_date: 2024-04-05
+event_date: 2025-04-05
 time_start: 9:00am
 time_stop: 11:30am
 ---
