@@ -14,3 +14,9 @@ Coffee and donuts will be served.
 
 
 <a href="https://www.phila.gov/programs/philly-spring-cleanup/"><img src="https://www.phila.gov/media/20210621113626/PhillySpringCleanup-Logo.jpg" alt="logo for philly spring cleanup, black text with a green broom"/></a>
+
+
+<img width="761" alt="10 volunteers holding trash bags with trees in background" src="https://github.com/user-attachments/assets/f199fbe5-bfd3-4868-b6f9-b3cdc4d0c22e" />
+<p>
+<span>Photo from last Spring's cleanup.</span>
+</p>
