@@ -1,0 +1,25 @@
+---
+title: "Community Forum with Congressman Dwight Evans
+type: meeting
+location:  SCEE Meeting Center
+video_link: NA
+event_date: 2025-04-23
+time_start: 5:30pm
+time_stop: 7:30pm
+---
+
+
+
+            <table width="100%" style="border:0;border-radius:0;border-collapse:separate">
+               <tbody>
+                  <tr>
+                     <td style="padding-left:24px;padding-right:24px;padding-top:12px;padding-bottom:12px" class="mceTextBlockContainer">
+                        <div data-block-id="9" class="mceText" id="dataBlockId-9" style="width:100%">
+                           <h1 class="last-child">Community Forum with Congressman Dwight Evans @ SCEE - April 23</h1>
+                        </div>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" role="presentation"><tbody><tr><td valign="top" id="blockContainerId-55"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" role="presentation" data-block-id="55"><tbody><tr class="mceRow"><td style="background-position:center;background-repeat:no-repeat;background-size:cover;padding-top:0px;padding-bottom:0px" valign="top"><table border="0" cellpadding="0" cellspacing="24" width="100%" style="table-layout:fixed" role="presentation"><colgroup><col span="1" width="8.333333333333332%"><col span="1" width="8.333333333333332%"><col span="1" width="8.333333333333332%"><col span="1" width="8.333333333333332%"><col span="1" width="8.333333333333332%"><col span="1" width="8.333333333333332%"><col span="1" width="8.333333333333332%"><col span="1" width="8.333333333333332%"><col span="1" width="8.333333333333332%"><col span="1" width="8.333333333333332%"><col span="1" width="8.333333333333332%"><col span="1" width="8.333333333333332%"></colgroup><tbody><tr><td style="padding-top:0;padding-bottom:0" valign="top" class="mceColumn" data-block-id="58" colspan="6" width="50%"><table border="0" cellpadding="0" cellspacing="0" width="100%" role="presentation"><tbody><tr><td style="padding-top:12px;padding-bottom:12px;padding-right:0;padding-left:0" valign="top" class="mceImageBlockContainer" align="center" id="blockContainerId-57"><span class="mceImageBorder" style="border:0;border-radius:0;vertical-align:top;margin:0"><img data-block-id="57" width="624" height="auto" style="width:624px;height:auto;max-width:330px !important;border-radius:0;display:block" alt="" src="https://mcusercontent.com/2ab808daa7adb1455138f095d/images/b5be3b82-5bae-d846-ef3f-ae1aba9000f1.jpg" role="presentation" class="imageDropZone mceImage"></span></td></tr></tbody></table></td><td style="padding-top:0;padding-bottom:0" valign="top" class="mceColumn" data-block-id="54" colspan="6" width="50%"><table border="0" cellpadding="0" cellspacing="0" width="100%" role="presentation"><tbody><tr><td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0" valign="top" id="blockContainerId-46"><table width="100%" style="border:0;border-radius:0;border-collapse:separate"><tbody><tr><td style="padding-left:24px;padding-right:24px;padding-top:12px;padding-bottom:12px" class="mceTextBlockContainer"><div data-block-id="46" class="mceText" id="dataBlockId-46" style="width:100%"><p>Hosted by Rep Tarik Khan.</p><p><br></p><p>If you can join us please rsvp at <a href="mailto:reptarik@pahouse.net" style="color: #467886;"><span style="color:rgb(70, 120, 134);">reptarik@pahouse.net</span></a>. Here are more details:</p><p><br></p><p class="mcePastedContent" style="margin: 0 0 8pt; line-height: 140%; mso-line-height-alt: NaN%;"><strong><span style="text-decoration:underline;">Wednesday April 23 from 5:30-7:30 p.m.</span></strong></p><p class="mcePastedContent"> </p><p class="mcePastedContent" style="margin: 0 0 8pt; line-height: 140%; mso-line-height-alt: NaN%;">📍 <strong>Schuylkill Environmental Center Auditorium</strong></p><p class="mcePastedContent"> </p><p class="mcePastedContent" style="margin: 0 0 8pt; line-height: 140%; mso-line-height-alt: NaN%;">8480 Hagys Mill Road, Philadelphia</p><p class="mcePastedContent"> </p><p class="mcePastedContent last-child" style="margin: 0 0 8pt; line-height: 140%; mso-line-height-alt: NaN%;"><strong>5:30 p.m.</strong> – Doors Open, State &amp; Federal Service Assistance<br><strong>6:00 p.m.</strong> – Program Begins<br><strong>6:20–7:30 p.m.</strong> – Audience Q&amp;A</p></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table>
