@@ -34,7 +34,7 @@ time_stop: 7:30pm
                               <tr>
                                  <td>
                                     <div>
-                                       <p>Hosted by Rep Tarik Khan.</p>
+                                       <p>Co-hosted by Residents of Shawmont Valley.</p>
                                        <p></p>
                                        <p>If you can join us please rsvp at <a href="mailto:reptarik@pahouse.net">reptarik@pahouse.net</a>. Here are more details:</p>
                                        <p></p>
