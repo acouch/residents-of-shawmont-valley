@@ -1,0 +1,11 @@
+---
+title: "Winter meeting"
+type: meeting
+location: Roxborough Church
+video_link: NA
+event_date: 2026-02-26
+time_start: 6:30pm
+time_stop: 7:30pm
+---
+
+<div data-block-id="76" class="mceText" id="d76" style="width:100%"><p style="line-height: 0; mso-line-height-alt: 0%;"><br></p><p class="mcePastedContent">On January 15, 2026 at 6pm, RSVA will hosted a meeting with SCEE to discuss the Gully improvement project.</p><p class="mcePastedContent"><br></p><p class="mcePastedContent">This is a message from SCEE about the project:</p><p class="mcePastedContent"><br></p><p class="mcePastedContent">We are thrilled to announce that in February 2026 we will start work on a project to reduce erosion and flooding on Port Royal Avenue. As you may know, increased flooding on Port Royal has led to pooling water and dangerous driving conditions. This project focuses on a two-acre site on the Schuylkill Center landscape uphill from Smith Run, a first-order spring-fed stream that runs through our property. The project site is adjacent to Port Royal Avenue, where a low point in the road allows water to collect and where the stormwater runoff has carved a gully into the adjacent hillside, carrying soil and debris into Wind Dance pond and Smith Run.</p><p class="mcePastedContent"><br></p><p class="mcePastedContent">Below are slides provided by SCEE:</p><p class="mcePastedContent"><br></p><p class="mcePastedContent"><a href="https://mcusercontent.com/2ab808daa7adb1455138f095d/files/5c792930-c64e-2c79-ca90-37b85ce622d4/Port_Royal_Gully_Presentation_.01.pdf"><img src="https://mcusercontent.com/2ab808daa7adb1455138f095d/images/5c9a3287-1b7d-0184-3501-cca91a375c57.png" style="max-width: 100%;" width="612" height="341"></a></p><p class="mcePastedContent"><br></p><p class="mcePastedContent last-child"><br></p></div>
